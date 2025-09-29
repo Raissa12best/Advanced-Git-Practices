@@ -1,0 +1,11 @@
+ Feature Branch Notes
+
+This file was created on the feature branch.
+It contains initial content to demonstrate branching in Git.
+
+Steps:
+1. Create a new branch.
+2. Add this file with some text.
+3. Commit the changes.
+4. Merge or cherry-pick into main when ready.
+
