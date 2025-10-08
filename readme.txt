@@ -12,5 +12,5 @@ Recent Updates:
 - Implemented a new feature on ft/new-feature.
 - Cleaned commit history using git rebase.
 - Practiced undoing mistakes and recovering commits with git reflog.
-
+- Hello from the main branch
 
