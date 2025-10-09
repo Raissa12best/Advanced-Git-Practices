@@ -16,8 +16,6 @@ Recent Updates:
 
 commits history
 
-ELITRBOOK@BestRaissa MINGW64 ~/Desktop/The Gym/Git/Git-advanced-Exercises/Advanced-Git-Practices (main)
-$ git log --oneline
 bd7efc2 (HEAD -> main, origin/main) Fix .gitignore filename
 6801e38 stop trackingfiles ignored by .gitignore
 3dd4d48 conflict file
